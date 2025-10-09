@@ -171,17 +171,12 @@ export const workExperience = [
 export const socialMedia = [
   {
     id: 1,
-    img: "/git.svg",
-    link: "https://github.com/Rohitrai12/",
+    img: "/x-logo.png",
+    link: "http://x.com/the_rohitrai/",
   },
   {
     id: 2,
-    img: "/linkl.png",
-    link: "https://linktr.ee/rohitrai2",
-  },
-  {
-    id: 3,
-    img: "/link.svg",
-    link: "https://www.linkedin.com/in/rohitrai0/",
+    img: "/git.svg",
+    link: "https://github.com/Rohitrai12/",
   },
 ];

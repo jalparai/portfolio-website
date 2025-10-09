@@ -36,7 +36,7 @@ const Hero = () => {
             Let's Connect 🟢 Open to work
           </p>
           <TextGenerateEffect
-            words="Designing enterprise-level Saas platform "
+            words="Designing High Enterprise-level Saas platform "
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
